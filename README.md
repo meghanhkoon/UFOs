@@ -22,3 +22,5 @@ The purpose of this challenge assignment is to help Dana's webpage and dynamic t
 How to perform a search 
 
 ## Summary 
+Drawbacks 
+Recommendations for further development
