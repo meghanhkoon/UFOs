@@ -19,7 +19,7 @@ The purpose of this challenge assignment is to help Dana's webpage and dynamic t
 
 
 ## Results
-The webpage UFO Sightings: The Truth Is Out There uses HTML and JavaScript to perform a dynamic table for the audience to search through different filters to find data on specific UFO Sightings. The webpage also includes a summary of the topic, a dynamic table to display information from the original dataset, and search filters that allow readers to update the table based on the filters (date, city, state, country and shape). See a snapshot of our webpage below: 
+The webpage [UFO Sightings: The Truth Is Out There](https://meghanhkoon.github.io/UFOs/) uses HTML and JavaScript to perform a dynamic table for the audience to search through different filters to find data on specific UFO Sightings. The webpage also includes a summary of the topic, a dynamic table to display information from the original dataset, and search filters that allow readers to update the table based on the filters (date, city, state, country and shape). See a snapshot of our webpage below: 
 
 ![webpage](static/images/webpage.png)
 
